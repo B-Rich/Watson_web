@@ -8,6 +8,7 @@ gem 'masonry-rails', '~> 0.2.4'
 gem 'acts_as_votable', '~> 0.10.0'
 gem 'rails_12factor', group: :production
 gem 'pg', group: :production
+gem 'aws-sdk', '~> 2'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
